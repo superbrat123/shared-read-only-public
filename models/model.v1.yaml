@@ -1,0 +1,22 @@
+title: MM
+type: object
+properties:
+  foo:
+    type:
+      - object
+      - string
+  duck:
+    type: string
+  cat:
+    type: number
+  dog:
+    type: array
+    items: {}
+  pig:
+    type:
+      - boolean
+      - integer
+  fish:
+    type: string
+  mouse:
+    type: string
